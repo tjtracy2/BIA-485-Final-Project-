@@ -1,1 +1,3 @@
 This code builds a data analysis and machine learning pipeline on a dataset of data analyst job postings. It uses pandas for data cleaning and preparation, and Matplotlib/Seaborn for exploratory analysis. It then applies natural language processing with NLTK and TF-IDF to transform job descriptions into features, and trains a Ridge Regression model to predict salaries. The final output includes a function that estimates salary based on a given job description.
+
+Dataset Link: https://www.kaggle.com/datasets/lukebarousse/data-analyst-job-postings-google-search
